@@ -3,3 +3,5 @@ It's very simple, you just need to call a line that will call this Boss / Employ
 
 - line : (Call) = RageUI.Visible(RMenu:Get('core', 'stock_entreprise_main'), true)
                   RefreshInfosSociety()
+
+Dependencies such as esx_society, esx_addon_inventory, esx_datastore, esx_addon_account no longer exist!
