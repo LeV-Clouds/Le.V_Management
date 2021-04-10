@@ -5,3 +5,5 @@ It's very simple, you just need to call a line that will call this Boss / Employ
                   RefreshInfosSociety()
 
 Dependencies such as esx_society, esx_addon_inventory, esx_datastore, esx_addon_account no longer exist!
+
+My discord : https://discord.gg/GmgYtwXa
